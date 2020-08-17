@@ -1,7 +1,7 @@
 ### Hi there I'm *Mujahid* :wink: :smiley:
 <p align="center">
    
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python | Datascience | Machine Learning  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python | Datascience | Machine Learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
 ## About Me:
@@ -27,3 +27,25 @@
     <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
+
+💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/twitter.svg" >](https://twitter.com/mujahid123654/)
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mujahid2580&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+<br />
+Languages and Tools...
+<p align ='center'>
+	<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/datascience.svg" alt="csharp" style="vertical-align:top; margin:4px">
+	<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/python.svg" alt="csharp" style="vertical-align:top; margin:4px">
+	<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/chrome.svg" alt="python" style="vertical-align:top; margin:4px">
+</p>
+
+---
+<b>Thankyou</b> - :pray:
+
+
+
