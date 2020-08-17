@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm *Mujahid* :wink: :smiley:
+<p align="center">
+   
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python | Datascience | Machine Learning  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
 
 ## About Me:
   
@@ -10,7 +14,16 @@
 ![](https://komarev.com/ghpvc/?username=mujahid2580&style=flat&color=35ffb6)
 
 <p align="center">
-	<a href="https://github.com/mujahid2580"><img src="https://img.shields.io/github/followers/mujahid2580.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/mujahid123654"><img src="https://img.shields.io/twitter/follow/mujahid123654?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://in.linkedin.com/in/b-mujahidulla-22904a199"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedinColor=orange" alt="LinkedIn"></a>
+	<a href="https://github.com/mujahid2580"><img alt = "GITHUB FOLLOWERS" src="https://img.shields.io/github/followers/mujahid2580?style=for-the-badge&color=09f&labelColor=black&logo=GitHub&label=mujahid2580" ></a>
+</p>
+<p align = "center">
+	<a href="https://twitter.com/mujahid123654"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mujahid123654?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=mujahid123654"></a> </p>
+
+<p align = "center">
+	<a href="https://www.linkedin.com/in/b-mujahidulla-22904a199">
+<img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+	</a>
+	<a href="https://www.instagram.com/mujaaaaaaaaaahiddd/">
+    <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 </p>
