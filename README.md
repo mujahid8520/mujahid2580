@@ -10,7 +10,6 @@
 ---
 ![ALT TEXT](https://lh3.googleusercontent.com/-7_HeAUv1-Ms/XyFdZHkRwlI/AAAAAAAAORQ/iKTqRvZxXmgeAYA1Koo_QBvUjtzkoUzdgCK8BGAsYHg/s0/IMG_20191128_081938.JPG)
 
-
 ![](https://komarev.com/ghpvc/?username=mujahid2580&style=flat&color=35ffb6)
 
 <p align="center">
