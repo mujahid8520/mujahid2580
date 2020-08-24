@@ -26,7 +26,7 @@
     <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 	<a href="https://www.youtube.com/channel/UCePP9DJBdM-4Jzq2p-94sYQ/"> 
-    <img align="center" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+    <img align="center" alt="youtube" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 
 </p>
 
