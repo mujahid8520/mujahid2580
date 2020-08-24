@@ -26,10 +26,12 @@
 	<a href="https://www.instagram.com/mujaaaaaaaaaahiddd/">
     <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
+	<a href="https://www.youtube.com/channel/UCePP9DJBdM-4Jzq2p-94sYQ/"> 
+    <img align="center" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+
 </p>
 
 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/twitter.svg" >](https://twitter.com/mujahid123654/)
-
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=mujahid2580&&show_icons=true&theme=radical"/>
