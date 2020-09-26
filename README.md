@@ -8,8 +8,7 @@
   
 #### I am *Mujahid*, am a graduate in mechanical engineering from sir vishveshwariah institute of science and technology. I have completed Data science with   python course from IBM cognigitive AI. Some technologies I enjoy working with including python, numpy, pandas, seaborn,scikit-learn, scipy, matplotlib, scikit-image. I have handson experience on Data analytics, Datascience, Machine Learning.
 ---
-![ALT TEXT](https://lh3.googleusercontent.com/-7_HeAUv1-Ms/XyFdZHkRwlI/AAAAAAAAORQ/iKTqRvZxXmgeAYA1Koo_QBvUjtzkoUzdgCK8BGAsYHg/s0/IMG_20191128_081938.JPG)
-
+<a href="url"><img src = "https://lh3.googleusercontent.com/-7_HeAUv1-Ms/XyFdZHkRwlI/AAAAAAAAORQ/iKTqRvZxXmgeAYA1Koo_QBvUjtzkoUzdgCK8BGAsYHg/s0/IMG_20191128_081938.JPG" alt="MUJAHID" align="left" height= "433" width = "433" style="border-radius:600px"></a>
 ![](https://komarev.com/ghpvc/?username=mujahid2580&style=flat&color=35ffb6)
 
 <p align="center">
@@ -30,7 +29,8 @@
 
 </p>
 
-💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/twitter.svg" >](https://twitter.com/mujahid123654/)
+💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/twitter.svg">](https://twitter.com/mujahid123654/)
+
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=mujahid2580&&show_icons=true&theme=radical"/>
