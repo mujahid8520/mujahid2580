@@ -1,4 +1,4 @@
-### Hi there I'm *Mujahid* :wink: :smiley:
+### Hi,I'm *Mujahid* :wink: :smiley:
 <p align="center">
    
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python | Datascience | Machine Learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
